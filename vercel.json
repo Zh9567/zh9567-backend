@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/busv1", "destination": "/bus_position/live_bus_map_v1" }
+  ]
+}
