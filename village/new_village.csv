@@ -1,5 +1,5 @@
 Name,Name_C,Type,District,State,Established,Majority_Ethnic,Majority_Dialect,X,Y
-Ayer Hitam,亚依淡,Kampung Baru Tradisional,Batu Pahat,Johor,1952,,,103.18301,1.91374
+Ayer Hitam,亚依淡,Kampung Baru Tradisional,Batu Pahat,Johor,1952,Chinese,,103.18301,1.91374
 Kangkar Bahru,新港,Kampung Baru Tradisional,Batu Pahat,Johor,1950,,,103.12355,2.06371
 Lam Lee,南利,Kampung Baru Tradisional,Batu Pahat,Johor,1950,,,103.04598,2.09413
 Parit Raja,巴力拉惹,Kampung Baru Tradisional,Batu Pahat,Johor,1950,,,103.1179,1.86813
@@ -19,7 +19,7 @@ Parit Buloh,巴力务鲁,Kampung Baru Rangkaian,Batu Pahat,Johor,,,,102.98936,1.
 Sin Lik,新立村,Kampung Baru Rangkaian,Batu Pahat,Johor,,,,103.14353,2.07092
 Bagan / Parit Besar,峇眼大巴力,Kampung Bagan,Batu Pahat,Johor,,,,102.8502,1.84296
 Segenting,石文丁,Kampung Bagan,Batu Pahat,Johor,,,,102.89324,1.7845
-Ban Foo,万孚,Kampung Baru Tradisional,Johor Bahru,Johor,1950,,,103.8538,1.56709
+Ban Foo,万孚,Kampung Baru Tradisional,Johor Bahru,Johor,1950,Chinese,Hakka,103.8538,1.56709
 Gelang Patah,振林山,Kampung Baru Tradisional,Johor Bahru,Johor,1950,,,103.58948,1.45079
 Kangkar Pulai,江加埔来,Kampung Baru Tradisional,Johor Bahru,Johor,1950,,,103.59386,1.55715
 Kangkar Tebrau,陈厝港,Kampung Baru Tradisional,Johor Bahru,Johor,1951,,,103.75846,1.53586
@@ -45,7 +45,7 @@ Renggam,令金,Kampung Baru Tradisional,Kluang,Johor,1951,,,103.39919,1.88964
 Simpang Renggam,新邦令金,Kampung Baru Tradisional,Kluang,Johor,1952,,,103.30889,1.825
 Seri Lalang,实里拉龙,Kampung Baru Tradisional,Kluang,Johor,1952,,,103.25306,1.99389
 Sungai Sayong,双溪沙翁,Kampung Baru Tradisional,Kluang,Johor,1950,,,103.37333,1.9225
-"Batu 24, Kahang",加亨廿四碑村,Kampung Baru Rangkaian,Kluang,Johor,,,,103.55461,2.23064
+"Batu 24, Kahang",加亨廿四碑村,Kampung Baru Rangkaian,Kluang,Johor,,Chinese,Foochow,103.55461,2.23064
 Central Paloh,圣德巴罗村,Kampung Baru Rangkaian,Kluang,Johor,,,,103.21917,2.17528
 Dato' Abdul Rahman Yassin,九皇爷村,Kampung Baru Rangkaian,Kluang,Johor,,,,103.33769,2.01772
 Gunung Lambak,君隆南峇（霸王村）,Kampung Baru Rangkaian,Kluang,Johor,,,,103.32945,2.02338
@@ -54,12 +54,12 @@ Yap Tau Sah,叶陶沙村,Kampung Baru Rangkaian,Kluang,Johor,,,,103.32778,2.0169
 Pasir Gogok,巴西高谷,Kampung Baru Tradisional,Kota Tinggi,Johor,1952,,,104.10078,1.41925
 Sungai Rengit,四湾岛,Kampung Baru Tradisional,Kota Tinggi,Johor,1952,,,104.22213,1.35033
 Teluk Sengat,南亚港,Kampung Baru Tradisional,Kota Tinggi,Johor,1952,,,104.0318,1.5621
-Batu 2 Jalan Lombong,龙望路二条石村,Kampung Baru Rangkaian,Kota Tinggi,Johor,,,,103.89106,1.75165
+Batu 2 Jalan Lombong,龙望路二条石村,Kampung Baru Rangkaian,Kota Tinggi,Johor,,Chinese,,103.89106,1.75165
 Lukut Cina,卢骨支那,Kampung Baru Rangkaian,Kota Tinggi,Johor,,,,103.91051,1.74447
 Kota Kecil,小哥打,Kampung Baru Rangkaian,Kota Tinggi,Johor,,,,103.90469,1.74087
 Tai Hong,泰丰港,Kampung Baru Rangkaian,Kota Tinggi,Johor,,,,103.85748,1.7385
-Air Bemban,亚逸文满（廿九碑）,Kampung Baru Tradisional,Kulai,Johor,1950,,,103.48466,1.69883
-Bukit Batu,武吉峇都,Kampung Baru Tradisional,Kulai,Johor,1950,,,103.44379,1.73408
+Air Bemban,亚逸文满（廿九碑）,Kampung Baru Tradisional,Kulai,Johor,1950,Chinese,Hakka,103.48466,1.69883
+Bukit Batu,武吉峇都,Kampung Baru Tradisional,Kulai,Johor,1950,Chinese,,103.44379,1.73408
 Kelapa Sawit,加拉巴沙威（廿六碑）,Kampung Baru Tradisional,Kulai,Johor,1950,,,103.53051,1.67143
 Kulai,古来,Kampung Baru Tradisional,Kulai,Johor,1950,,,103.6006,1.6585
 Saleng,沙令（十七碑）,Kampung Baru Tradisional,Kulai,Johor,1950,,,103.63385,1.62975
@@ -71,29 +71,29 @@ Kampung Hubung,好旺村,Kampung Baru Tradisional,Mersing,Johor,1951,,,103.64679
 Jemaluang,三板头（任罗宏）,Kampung Baru Tradisional,Mersing,Johor,1951,,,103.8569,2.2769
 Mersing Kecil,小丰盛,Kampung Baru Tradisional,Mersing,Johor,1952,,,103.83926,2.42404
 Endau,兴楼,Kampung Bagan,Mersing,Johor,,,,103.62626,2.65046
-Bukit Bakri,巴口,Kampung Baru Tradisional,Muar,Johor,1950,,,102.65703,2.04383
-Bukit Kepong,武吉哈逢,Kampung Baru Tradisional,Muar,Johor,1950,,,102.83196,2.34558
-Bukit Mor,武吉摩,Kampung Baru Tradisional,Muar,Johor,1950,,,102.66192,1.97492
-Bukit Pasir,武吉巴西,Kampung Baru Tradisional,Muar,Johor,1952,,,102.63956,2.09644
+Bukit Bakri,巴口,Kampung Baru Tradisional,Muar,Johor,1950,Chinese,,102.65703,2.04383
+Bukit Kepong,武吉哈逢,Kampung Baru Tradisional,Muar,Johor,1950,Chinese,,102.83196,2.34558
+Bukit Mor,武吉摩,Kampung Baru Tradisional,Muar,Johor,1950,Chinese,,102.66192,1.97492
+Bukit Pasir,武吉巴西,Kampung Baru Tradisional,Muar,Johor,1952,Chinese,,102.63956,2.09644
 Lenga,岭嘉（五条）,Kampung Baru Tradisional,Muar,Johor,1951,,,102.8153,2.27413
 Pagoh,巴莪,Kampung Baru Tradisional,Muar,Johor,1952,,,102.76985,2.14994
 Panchor,班卒,Kampung Baru Tradisional,Muar,Johor,1951,,,102.71244,2.1716
 Parit Jawa,巴冬,Kampung Baru Tradisional,Muar,Johor,1950,,,102.64482,1.9585
-Bakri Barat,巴口西区,Kampung Baru Rangkaian,Muar,Johor,,,,102.66691,2.04566
+Bakri Barat,巴口西区,Kampung Baru Rangkaian,Muar,Johor,,Chinese,,102.66691,2.04566
 Jalan Daud,六马路,Kampung Baru Rangkaian,Muar,Johor,,,,102.57339,2.0422
 Parit Bakar,巴力峇九,Kampung Baru Rangkaian,Muar,Johor,,,,102.60542,2.00278
 Sabak Awor,沙巴莪,Kampung Baru Rangkaian,Muar,Johor,,,,102.56566,2.0803
 Simpang Jeram,二南,Kampung Baru Rangkaian,Muar,Johor,,,,102.61384,2.04974
 Pekan Nanas,北干那那,Kampung Baru Tradisional,Pontian,Johor,1952,,,103.5113,1.5088
 Permas Kukup,龟咯山顶,Kampung Baru Rangkaian,Pontian,Johor,,,,103.45824,1.33659
-Ayer Baloi,亚逸峇礼,Kampung Bagan,Pontian,Johor,,,,103.33596,1.58961
+Ayer Baloi,亚逸峇礼,Kampung Bagan,Pontian,Johor,,Chinese,,103.33596,1.58961
 Ayer Masin,咸水港,Kampung Bagan,Pontian,Johor,,,,103.4429,1.33209
-Benut,文律,Kampung Bagan,Pontian,Johor,,,,103.2587,1.6438
+Benut,文律,Kampung Bagan,Pontian,Johor,,Chinese,,103.2587,1.6438
 Kukup Laut,龟咯港脚,Kampung Bagan,Pontian,Johor,,,,103.44259,1.3242
-Batu Anam,峇都安南,Kampung Baru Tradisional,Segamat,Johor,1950,,,102.70912,2.57268
-Bekok,彼咯,Kampung Baru Tradisional,Segamat,Johor,1951,,,103.13199,2.29685
-Bukit Siput,武吉仕砵（红牌）,Kampung Baru Tradisional,Segamat,Johor,1950,,,102.84775,2.48538
-Buloh Kasap,巫罗加什,Kampung Baru Tradisional,Segamat,Johor,1951,,,102.76514,2.54978
+Batu Anam,峇都安南,Kampung Baru Tradisional,Segamat,Johor,1950,Chinese,,102.70912,2.57268
+Bekok,彼咯,Kampung Baru Tradisional,Segamat,Johor,1951,Chinese,Hokkien,103.13199,2.29685
+Bukit Siput,武吉仕砵（红牌）,Kampung Baru Tradisional,Segamat,Johor,1950,Chinese,Hakka,102.84775,2.48538
+Buloh Kasap,巫罗加什,Kampung Baru Tradisional,Segamat,Johor,1951,Chinese,Hokkien,102.76514,2.54978
 Chaah,三合港,Kampung Baru Tradisional,Segamat,Johor,1951,,,103.04413,2.24857
 Gemas Bahru,金马士峇鲁（大港）,Kampung Baru Tradisional,Segamat,Johor,1951,,,102.6265,2.58461
 Jementah,利民达,Kampung Baru Tradisional,Segamat,Johor,1952,,,102.68753,2.43985
@@ -106,9 +106,9 @@ Sungai Karas,双溪加叻,Kampung Baru Tradisional,Segamat,Johor,1952,,,103.0383
 Kampung Kwongsai,广西村,Kampung Baru Rangkaian,Segamat,Johor,,,,102.92277,2.4783
 Kampung Sawah Padi Tenang,丁能田芭村,Kampung Baru Rangkaian,Segamat,Johor,,,,102.95515,2.47381
 Kampung Tambang Batu 7,东猛新村,Kampung Baru Rangkaian,Segamat,Johor,,,,102.74256,2.63757
-Bekoh,木阁,Kampung Baru Tradisional,Tangkak,Johor,1950,,,102.51995,2.34979
-Bukit Gambir,武吉甘蜜,Kampung Baru Tradisional,Tangkak,Johor,1951,,,102.65673,2.21051
-Bukit Kangkar,武吉港脚,Kampung Baru Tradisional,Tangkak,Johor,1952,,,102.55582,2.1722
+Bekoh,木阁,Kampung Baru Tradisional,Tangkak,Johor,1950,Chinese,Hokkien,102.51995,2.34979
+Bukit Gambir,武吉甘蜜,Kampung Baru Tradisional,Tangkak,Johor,1951,Chinese,Hokkien,102.65673,2.21051
+Bukit Kangkar,武吉港脚,Kampung Baru Tradisional,Tangkak,Johor,1952,Chinese,Hokkien,102.55582,2.1722
 Grisek,玉射,Kampung Baru Tradisional,Tangkak,Johor,1951,,,102.7053,2.20967
 Kebun Baru,居本峇鲁,Kampung Baru Tradisional,Tangkak,Johor,1951,,,102.6846,2.39255
 Kundang Ulu,坤兰乌汝,Kampung Baru Tradisional,Tangkak,Johor,1951,,,102.7695,2.23541
@@ -116,9 +116,9 @@ Sagil,砂益,Kampung Baru Tradisional,Tangkak,Johor,1950,,,102.61182,2.30793
 Serom,实廊,Kampung Baru Tradisional,Tangkak,Johor,1952,,,102.58309,2.16199
 Sungai Mati,利丰港,Kampung Baru Tradisional,Tangkak,Johor,1952,,,102.56485,2.14854
 Tangkak,东甲,Kampung Baru Tradisional,Tangkak,Johor,1952,,,102.54288,2.26927
-Asahan Sialang Relau,亚沙汉锡兰月佬,Kampung Baru Rangkaian,Tangkak,Johor,,,,102.544,2.3917
+Asahan Sialang Relau,亚沙汉锡兰月佬,Kampung Baru Rangkaian,Tangkak,Johor,,Chinese,Hokkien,102.544,2.3917
 Kampung Batu 10,十支村,Kampung Baru Rangkaian,Tangkak,Johor,,,,102.5546,2.191
-Belemang,文林望,Kampung Baru Rangkaian,Tangkak,Johor,,,,102.61981,2.15276
+Belemang,文林望,Kampung Baru Rangkaian,Tangkak,Johor,,Chinese,Hokkien,102.61981,2.15276
 Parit Bunga,巴力文莪,Kampung Baru Rangkaian,Tangkak,Johor,,,,102.54997,2.07636
 Pekan Rawang,呀旺,Kampung Baru Rangkaian,Tangkak,Johor,,,,102.55641,2.12338
 Sengkang Batu 19,新港十九支,Kampung Baru Rangkaian,Tangkak,Johor,,,,102.6804,2.26312
@@ -211,29 +211,29 @@ Kulim,古林,Kampung Baru Rangkaian,Tumpat,Kelantan,,Chinese,Hokkien,102.19142,6
 Air Panas,热水湖,Kampung Baru Tradisional,Kuala Lumpur,Kuala Lumpur,1950,Chinese,,101.718,3.1885
 Jinjang,增江,Kampung Baru Tradisional,Kuala Lumpur,Kuala Lumpur,1950,Chinese,"Hakka, Cantonese",101.6617,3.2086
 Salak Selatan,沙叻秀,Kampung Baru Tradisional,Kuala Lumpur,Kuala Lumpur,1950,Chinese,Hakka,101.70386,3.089
-Lendu (Air Bemban),林鲁（雅逸旺满）,Kampung Baru Tradisional,Alor Gajah,Melaka,1950,,,102.17105,2.35745
-Machap Baru,马接峇汝,Kampung Baru Tradisional,Alor Gajah,Melaka,1950,,,102.33068,2.38194
-Machap Umboo,马接翁武（柏美）,Kampung Baru Tradisional,Alor Gajah,Melaka,1950,,,102.2774,2.38319
-Paya Mengkuang,巴也明光,Kampung Baru Tradisional,Alor Gajah,Melaka,1949,,,102.06725,2.34626
-Taboh Naning,打波能宁,Kampung Baru Tradisional,Alor Gajah,Melaka,1950,,,102.18699,2.48124
-Man Lok,民乐,Kampung Baru Rangkaian,Alor Gajah,Melaka,,,,102.03754,2.37102
-Bukit Asahan (Gunung Emas),亚沙汉金山,Kampung Baru Tradisional,Jasin,Melaka,1950,,,102.54432,2.39414
-Bukit Katong,武吉加东,Kampung Baru Tradisional,Jasin,Melaka,1950,,,102.45915,2.32213
-Kampung On Lok,安乐新村,Kampung Baru Tradisional,Jasin,Melaka,1950,,,102.38373,2.47166
-Parit Keliling,巴力吉利令,Kampung Baru Tradisional,Jasin,Melaka,1950,,,102.50177,2.35977
-Pondok Batang,冯鹿峇登,Kampung Baru Tradisional,Jasin,Melaka,1950,,,102.50989,2.3854
-Simpang Bekoh,新邦木阁,Kampung Baru Tradisional,Jasin,Melaka,1950,,,102.5121,2.35744
-Air Manggis,亚逸马吉,Kampung Baru Rangkaian,Jasin,Melaka,,,,102.42792,2.28989
-Kampung Kongsai,广西村,Kampung Baru Rangkaian,Jasin,Melaka,,,,102.41539,2.27572
-Ayer Keroh,爱极乐,Kampung Baru Tradisional,Melaka Tengah,Melaka,1950,,,102.28365,2.26373
-Ayer Salak,亚依沙叻,Kampung Baru Tradisional,Melaka Tengah,Melaka,1951,,,102.16731,2.27237
-Bertam Ulu,柏淡乌鲁,Kampung Baru Tradisional,Melaka Tengah,Melaka,1950,,,102.19377,2.28885
-Bukit Beruang,武吉波浪,Kampung Baru Tradisional,Melaka Tengah,Melaka,1953,,,102.27882,2.24187
-Bukit Rambai,武吉南眉,Kampung Baru Tradisional,Melaka Tengah,Melaka,1951,,,102.17982,2.25602
-Sungai Udang,双溪乌浪,Kampung Baru Tradisional,Melaka Tengah,Melaka,1950,,,102.13364,2.28414
-Tanjung Minyak,丹绒米雅,Kampung Baru Tradisional,Melaka Tengah,Melaka,1951,,,102.19923,2.26388
-Tiang Dua,丁赖,Kampung Baru Tradisional,Melaka Tengah,Melaka,1957,,,102.3613,2.21417
-Tanjung Keling,丹绒吉灵,Kampung Baru Rangkaian,Melaka Tengah,Melaka,,,,102.16484,2.22284
+Lendu (Air Bemban),林鲁（雅逸旺满）,Kampung Baru Tradisional,Alor Gajah,Melaka,1950,Chinese,Hakka,102.17105,2.35745
+Machap Baru,马接峇汝,Kampung Baru Tradisional,Alor Gajah,Melaka,1950,Chinese,Hakka,102.33068,2.38194
+Machap Umboo,马接翁武（柏美）,Kampung Baru Tradisional,Alor Gajah,Melaka,1950,Chinese,Hakka,102.2774,2.38319
+Paya Mengkuang,巴也明光,Kampung Baru Tradisional,Alor Gajah,Melaka,1949,Chinese,Hakka,102.06725,2.34626
+Taboh Naning,打坡能宁,Kampung Baru Tradisional,Alor Gajah,Melaka,1950,Chinese,Hakka,102.18699,2.48124
+Man Lok,民乐乡村,Kampung Baru Rangkaian,Alor Gajah,Melaka,,Chinese,,102.03754,2.37102
+Bukit Asahan (Gunung Emas),亚沙汉金山,Kampung Baru Tradisional,Jasin,Melaka,1950,Chinese,Hokkien,102.54432,2.39414
+Bukit Katong,武吉加东,Kampung Baru Tradisional,Jasin,Melaka,1950,Chinese,,102.45915,2.32213
+Kampung On Lok,安乐新村,Kampung Baru Tradisional,Jasin,Melaka,1950,Chinese,Hakka,102.38373,2.47166
+Parit Keliling,巴力吉利令,Kampung Baru Tradisional,Jasin,Melaka,1950,Chinese,Hakka,102.50177,2.35977
+Pondok Batang,冯鹿峇登,Kampung Baru Tradisional,Jasin,Melaka,1950,Chinese,Hakka,102.50989,2.3854
+Simpang Bekoh,新邦木阁,Kampung Baru Tradisional,Jasin,Melaka,1950,Chinese,Hakka,102.5121,2.35744
+Air Manggis,亚逸马吉,Kampung Baru Rangkaian,Jasin,Melaka,,Chinese,Hakka,102.42792,2.28989
+Kampung Kongsai,广西村,Kampung Baru Rangkaian,Jasin,Melaka,,Chinese,Kwongsai,102.41539,2.27572
+Ayer Keroh,爱极乐,Kampung Baru Tradisional,Melaka Tengah,Melaka,1950,Chinese,Hakka,102.28365,2.26373
+Ayer Salak,亚依沙叻,Kampung Baru Tradisional,Melaka Tengah,Melaka,1951,Chinese,Teochew,102.16731,2.27237
+Bertam Ulu,巴淡芙露（柏淡乌鲁）,Kampung Baru Tradisional,Melaka Tengah,Melaka,1950,Chinese,,102.19377,2.28885
+Bukit Beruang,武吉波浪,Kampung Baru Tradisional,Melaka Tengah,Melaka,1953,Chinese,Hakka,102.27882,2.24187
+Bukit Rambai,武吉南眉,Kampung Baru Tradisional,Melaka Tengah,Melaka,1951,Chinese,"Hakka, Hokkien",102.17982,2.25602
+Sungai Udang,双溪乌浪,Kampung Baru Tradisional,Melaka Tengah,Melaka,1950,Chinese,Hakkka,102.13364,2.28414
+Tanjung Minyak,丹绒米雅,Kampung Baru Tradisional,Melaka Tengah,Melaka,1951,Chinese,Hokkien,102.19923,2.26388
+Tiang Dua,丁赖,Kampung Baru Tradisional,Melaka Tengah,Melaka,1957,Chinese,Luichew,102.3613,2.21417
+Tanjung Keling,丹绒吉灵,Kampung Baru Rangkaian,Melaka Tengah,Melaka,,Chinese,Hokkien,102.16484,2.22284
 Durian Tipus,榴梿知贝,Kampung Baru Tradisional,Jelebu,Negeri Sembilan,1950,Chinese,,102.22433,3.11904
 Ladang Jelebu,半芭,Kampung Baru Tradisional,Jelebu,Negeri Sembilan,1950,Chinese,Hakka,102.05983,2.97497
 Pertang,葫芦顶,Kampung Baru Tradisional,Jelebu,Negeri Sembilan,1950,Chinese,Hakka,102.21774,2.95957
@@ -373,8 +373,8 @@ Chenderiang,积莪营,Kampung Baru Tradisional,Batang Padang,Perak,1951,Chinese,
 Kampung Coldstream,冷水河,Kampung Baru Tradisional,Batang Padang,Perak,1950,Chinese,Hakka,101.23972,4.04361
 Kampung Pahang,金榜彭亨,Kampung Baru Tradisional,Batang Padang,Perak,1951,Chinese,,101.27556,4.21722
 Kuala Bikam,瓜拉美金,Kampung Baru Tradisional,Batang Padang,Perak,1950,Chinese,,101.24333,4.0225
-Pekan Getah,北根吉打,Kampung Baru Tradisional,Batang Padang,Perak,1950,,,101.225,4.18833
-Pekan Pasir,卜干巴沙,Kampung Baru Tradisional,Batang Padang,Perak,1951,,,101.28722,4.06917
+Pekan Getah,北根吉打,Kampung Baru Tradisional,Batang Padang,Perak,1950,Chinese,Cantonese,101.225,4.18833
+Pekan Pasir,卜干巴沙,Kampung Baru Tradisional,Batang Padang,Perak,1951,Chinese,,101.28722,4.06917
 Sungai Kroh,宋溪古罗,Kampung Baru Tradisional,Batang Padang,Perak,1950,,,101.14,4.21889
 Sungkai,宋溪,Kampung Baru Tradisional,Batang Padang,Perak,1951,,,101.31056,3.99472
 Tanah Mas,丹那马士,Kampung Baru Tradisional,Batang Padang,Perak,1950,,,101.26611,4.14472
@@ -386,31 +386,31 @@ Kampung Tersusun Banir Estate,万岭园重组村,Kampung Baru Rangkaian,Batang P
 Batu Dua Belas,十二碑,Kampung Baru Tradisional,Hilir Perak,Perak,1950,Chinese,Teochew,101.17445,4.00411
 Chui Chak,水闸,Kampung Baru Tradisional,Hilir Perak,Perak,1950,Chinese,Hakka,101.17222,4.04472
 Goh Hong,五丰村,Kampung Baru Tradisional,Hilir Perak,Perak,1960,Chinese,,101.13019,4.02287
-Langkap,冷甲,Kampung Baru Tradisional,Hilir Perak,Perak,1950,,,101.14917,4.07167
-Pelawan,巴拉湾,Kampung Baru Tradisional,Hilir Perak,Perak,1949,,,101.1875,4.06667
-Pasir Bedamar,芭尾（巴硕伯达马）,Kampung Baru Tradisional,Hilir Perak,Perak,1950,,,101.00583,4.035
+Langkap,冷甲,Kampung Baru Tradisional,Hilir Perak,Perak,1950,Chinese,,101.14917,4.07167
+Pelawan,巴拉湾,Kampung Baru Tradisional,Hilir Perak,Perak,1949,Chinese,Hakka,101.1875,4.06667
+Pasir Bedamar,芭尾（巴硕伯达马）,Kampung Baru Tradisional,Hilir Perak,Perak,1950,Chinese,,101.00583,4.035
 Ayer Kala,爱育嘉拉,Kampung Baru Tradisional,Hulu Perak,Perak,1951,Chinese,Kwongsai,101.05722,5.19472
 Batu Dua,峇都鲁亚,Kampung Baru Tradisional,Hulu Perak,Perak,1950,Chinese,,101.13556,5.45222
 Klian Intan,仁丹,Kampung Baru Tradisional,Hulu Perak,Perak,1952,Chinese,Hakka,101.02333,5.63583
 Kota Tampan,哥打淡板,Kampung Baru Tradisional,Hulu Perak,Perak,1952,Chinese,Kwongsai,100.96583,5.05583
 Kuala Rui,高拉雷,Kampung Baru Tradisional,Hulu Perak,Perak,1957,Chinese,Kwongsai,101.17056,5.45806
-Padang Grus,巴登古鲁,Kampung Baru Tradisional,Hulu Perak,Perak,1951,,,101.01528,5.16556
-Pengkalan Hulu,高乌,Kampung Baru Tradisional,Hulu Perak,Perak,1959,,,101.00194,5.70444
+Padang Grus,巴登古鲁,Kampung Baru Tradisional,Hulu Perak,Perak,1951,Chinese,Kwongsai,101.01528,5.16556
+Pengkalan Hulu,高乌,Kampung Baru Tradisional,Hulu Perak,Perak,1959,Chinese,,101.00194,5.70444
 Selat Pagar,士力百加,Kampung Baru Tradisional,Hulu Perak,Perak,1950,,,101.03556,5.17917
 Tasek,打石,Kampung Baru Tradisional,Hulu Perak,Perak,1950,,,100.97351,5.6675
 UPRA 8,八号村,Kampung Baru Tradisional,Hulu Perak,Perak,1951,,,101.12806,5.43389
 Jeram,也南,Kampung Baru Tradisional,Kampar,Perak,1950,Chinese,Hakka,101.155,4.38833
 Kopisan Baru,新咖啡山,Kampung Baru Tradisional,Kampar,Perak,1950,Chinese,"Cantonese, Hakka",101.1575,4.46389
 Lawan Kuda Baru,拉湾古打,Kampung Baru Tradisional,Kampar,Perak,1950,Chinese,Hakka,101.15964,4.45297
-Malim Nawar,双溪古月,Kampung Baru Tradisional,Kampar,Perak,1950,,,101.11917,4.35306
-Mambang Di Awan,万邦刁湾（桂花村）,Kampung Baru Tradisional,Kampar,Perak,1950,,,101.14494,4.26594
+Malim Nawar,双溪古月,Kampung Baru Tradisional,Kampar,Perak,1950,Chinese,Hakka,101.11917,4.35306
+Mambang Di Awan,万邦刁湾（桂花村）,Kampung Baru Tradisional,Kampar,Perak,1950,Chinese,"Hakka, Cantonese",101.14494,4.26594
 Sungai Siput Selatan,石山脚,Kampung Baru Tradisional,Kampar,Perak,1950,,,101.19389,4.39444
 Tronoh Mines,东兴港,Kampung Baru Tradisional,Kampar,Perak,1950,,,101.08667,4.27083
 Aston Settlement,埃斯顿村,Kampung Baru Rangkaian,Kampar,Perak,,Chinese,,101.15,4.31806
 Desa Lawan Kuda,荣峰园,Kampung Baru Rangkaian,Kampar,Perak,,Chinese,Hakka,101.15472,4.45111
 Kampung Rawa,甘榜那哇,Kampung Baru Rangkaian,Kampar,Perak,,Chinese,Cantonese,101.16639,4.46953
 Kampung Tersusun Kowdow,孤岛重组村,Kampung Baru Rangkaian,Kampar,Perak,,Chinese,,101.14656,4.27169
-Malim Nawar Tin,双溪古月甸,Kampung Baru Rangkaian,Kampar,Perak,,,,101.11694,4.35389
+Malim Nawar Tin,双溪古月甸,Kampung Baru Rangkaian,Kampar,Perak,,Chinese,Hakka,101.11694,4.35389
 Taman Merdeka,独立园重组村,Kampung Baru Rangkaian,Kampar,Perak,,,,101.15556,4.26778
 Wah Loong Baru,华隆新村,Kampung Baru Rangkaian,Kampar,Perak,,,,101.14917,4.30861
 Kampung Liang Seng,两成园,Kampung Baru Rangkaian,Kerian,Perak,,Chinese,,100.50167,4.98194
@@ -441,13 +441,13 @@ Kampung Tawas,甘榜斗华,Kampung Baru Tradisional,Kinta,Perak,1951,Chinese,"Ha
 Kampung Timah,金榜地傌,Kampung Baru Tradisional,Kinta,Perak,1951,Chinese,,101.05361,4.28278
 Kanthan Baru,拱桥,Kampung Baru Tradisional,Kinta,Perak,1951,Chinese,Hakka,101.11957,4.74238
 Kuala Kuang,瓜拉光,Kampung Baru Tradisional,Kinta,Perak,1951,Chinese,,101.11001,4.70867
-Lahat,拿乞,Kampung Baru Tradisional,Kinta,Perak,1950,,,101.03722,4.53806
-Lim Tan,林旦,Kampung Baru Tradisional,Kinta,Perak,1950,,,101.1575,4.65889
-Menglembu,万里望,Kampung Baru Tradisional,Kinta,Perak,1951,,,101.05,4.56389
-Nalla,那拉,Kampung Baru Tradisional,Kinta,Perak,1951,,,100.97694,4.42278
-Papan,甲板,Kampung Baru Tradisional,Kinta,Perak,1950,,,101.01222,4.515
-Papan Baru,新甲板,Kampung Baru Tradisional,Kinta,Perak,1957,,,101.01611,4.50333
-Pasir Pinji,兵如港,Kampung Baru Tradisional,Kinta,Perak,1950,,,101.08861,4.57472
+Lahat,拿乞,Kampung Baru Tradisional,Kinta,Perak,1950,Chinese,"Hakka, Cantonese",101.03722,4.53806
+Lim Tan,林旦,Kampung Baru Tradisional,Kinta,Perak,1950,Chinese,,101.1575,4.65889
+Menglembu,万里望,Kampung Baru Tradisional,Kinta,Perak,1951,Chinese,Hakka,101.05,4.56389
+Nalla,那拉,Kampung Baru Tradisional,Kinta,Perak,1951,Chinese,,100.97694,4.42278
+Papan,甲板,Kampung Baru Tradisional,Kinta,Perak,1950,Chinese,Hakka,101.01222,4.515
+Papan Baru,新甲板,Kampung Baru Tradisional,Kinta,Perak,1957,Chinese,,101.01611,4.50333
+Pasir Pinji,兵如港,Kampung Baru Tradisional,Kinta,Perak,1950,Chinese,,101.08861,4.57472
 Simpang Pulai,新邦波赖,Kampung Baru Tradisional,Kinta,Perak,1951,,,101.12583,4.53028
 Sungai Durian,宋溪榴梿,Kampung Baru Tradisional,Kinta,Perak,1951,,,101.03528,4.31806
 Tambun,打扪,Kampung Baru Tradisional,Kinta,Perak,1952,,,101.13778,4.6075
@@ -458,12 +458,12 @@ Kampung Baru MTD,马来甸,Kampung Baru Rangkaian,Kinta,Perak,,Chinese,,101.0488
 Jerlun,瑶伦,Kampung Baru Tradisional,Kuala Kangsar,Perak,1952,Chinese,,100.91,4.73278
 Karai (Enggor),加赖（宁罗/永梧）,Kampung Baru Tradisional,Kuala Kangsar,Perak,1951,Chinese,,100.96694,4.83556
 Kati,加地,Kampung Baru Tradisional,Kuala Kangsar,Perak,1950,Chinese,,100.90694,4.87611
-Lasah,叻沙,Kampung Baru Tradisional,Kuala Kangsar,Perak,1951,,,101.12167,4.95528
-Liman Kati,利民加地,Kampung Baru Tradisional,Kuala Kangsar,Perak,1951,,,100.90388,4.85085
-Lintang,连登,Kampung Baru Tradisional,Kuala Kangsar,Perak,1950,,,101.10519,4.9381
-Manong,万浓,Kampung Baru Tradisional,Kuala Kangsar,Perak,1954,,,100.88139,4.59389
-Padang Rengas,硝山,Kampung Baru Tradisional,Kuala Kangsar,Perak,1952,,,100.8425,4.77417
-Rimba Panjang,林马班映,Kampung Baru Tradisional,Kuala Kangsar,Perak,1951,,,101.10111,4.79778
+Lasah,叻沙,Kampung Baru Tradisional,Kuala Kangsar,Perak,1951,Chinese,,101.12167,4.95528
+Liman Kati,利民加地,Kampung Baru Tradisional,Kuala Kangsar,Perak,1951,Chinese,Kwongsai,100.90388,4.85085
+Lintang,连登,Kampung Baru Tradisional,Kuala Kangsar,Perak,1950,Chinese,,101.10519,4.9381
+Manong,万浓,Kampung Baru Tradisional,Kuala Kangsar,Perak,1954,Chinese,,100.88139,4.59389
+Padang Rengas,硝山,Kampung Baru Tradisional,Kuala Kangsar,Perak,1952,Chinese,,100.8425,4.77417
+Rimba Panjang,林马班映,Kampung Baru Tradisional,Kuala Kangsar,Perak,1951,Chinese,,101.10111,4.79778
 Salak Baharu,新沙叻,Kampung Baru Tradisional,Kuala Kangsar,Perak,1950,,,100.99361,4.84167
 Salak Utara,沙叻北,Kampung Baru Tradisional,Kuala Kangsar,Perak,1950,,,101.00833,4.83472
 Sauk,新寿活,Kampung Baru Tradisional,Kuala Kangsar,Perak,1950,,,100.92111,4.93472
@@ -479,12 +479,12 @@ Kamunting,甘文丁（新港门）,Kampung Baru Tradisional,Larut Matang,Perak,1
 Kampung Pinang,甘榜槟榔,Kampung Baru Tradisional,Larut Matang,Perak,1956,Malay,N/A,100.72628,4.88353
 Kuala Sepetang,十八丁,Kampung Baru Tradisional,Larut Matang,Perak,1952,Chinese,"Teochew, Hokkien",100.63032,4.83989
 Kubu Gajah,古布牙也,Kampung Baru Tradisional,Larut Matang,Perak,1950,"Malay, Chinese",,100.67653,5.16436
-Matang,峇登,Kampung Baru Tradisional,Larut Matang,Perak,1950,,,100.67117,4.81983
-Padang Gajah,巴东牙也,Kampung Baru Tradisional,Larut Matang,Perak,1954,,,100.71639,4.61508
-Pasir Hitam,大直弄,Kampung Baru Tradisional,Larut Matang,Perak,1950,,,100.61567,4.64753
-Pokok Assam,保阁亚三,Kampung Baru Tradisional,Larut Matang,Perak,1951,,,100.73844,4.82842
-Rantau Panjang,拉都班央,Kampung Baru Tradisional,Larut Matang,Perak,1950,,,100.73039,5.24028
-Redang Panjang (Ijok),连登班央（怡郁）,Kampung Baru Tradisional,Larut Matang,Perak,1950,,,100.78311,5.11581
+Matang,峇登,Kampung Baru Tradisional,Larut Matang,Perak,1950,Chinese,Teochew,100.67117,4.81983
+Padang Gajah,巴东牙也,Kampung Baru Tradisional,Larut Matang,Perak,1954,Chinese,,100.71639,4.61508
+Pasir Hitam,大直弄,Kampung Baru Tradisional,Larut Matang,Perak,1950,Chinese,Hokkien,100.61567,4.64753
+Pokok Assam,保阁亚三,Kampung Baru Tradisional,Larut Matang,Perak,1951,Chinese,Hokkien,100.73844,4.82842
+Rantau Panjang,拉都班央,Kampung Baru Tradisional,Larut Matang,Perak,1950,Chinese,Hokkien,100.73039,5.24028
+Redang Panjang (Ijok),连登班央（怡郁）,Kampung Baru Tradisional,Larut Matang,Perak,1950,Chinese,,100.78311,5.11581
 Sungai Kerang,双溪吉隆,Kampung Baru Tradisional,Larut Matang,Perak,1952,,,100.68175,4.59628
 Sungai Rotan,双溪罗丹,Kampung Baru Tradisional,Larut Matang,Perak,1950,,,100.73472,4.55597
 Sungai Terap,双溪打立,Kampung Baru Tradisional,Larut Matang,Perak,1950,,,100.68361,5.2035
@@ -500,9 +500,9 @@ Changkat Keruing,莫珍歪,Kampung Baru Tradisional,Manjung,Perak,1951,Chinese,F
 Kampung Cina,福清洋,Kampung Baru Tradisional,Manjung,Perak,1951,Chinese,Foochow,100.68528,4.19417
 Kampung Jering,哲仁（第三村）,Kampung Baru Tradisional,Manjung,Perak,1951,Chinese,Foochow,100.77806,4.34639
 Kampung Koh,甘文阁,Kampung Baru Tradisional,Manjung,Perak,1951,Chinese,Foochow,100.70528,4.18861
-Kampung Merbau,甘光马坡（第二村）,Kampung Baru Tradisional,Manjung,Perak,1951,,,100.73,4.33472
-Pekan Gurney,格尼市,Kampung Baru Tradisional,Manjung,Perak,1951,,,100.74417,4.2225
-Raja Hitam,拉也依淡（第一村）,Kampung Baru Tradisional,Manjung,Perak,1951,,,100.75056,4.33667
+Kampung Merbau,甘光马坡（第二村）,Kampung Baru Tradisional,Manjung,Perak,1951,Chinese,Kwongsai,100.73,4.33472
+Pekan Gurney,格尼市,Kampung Baru Tradisional,Manjung,Perak,1951,Chinese,Foochow,100.74417,4.2225
+Raja Hitam,拉也依淡（第一村）,Kampung Baru Tradisional,Manjung,Perak,1951,Chinese,Foochow,100.75056,4.33667
 Simpang Dua,二条路,Kampung Baru Tradisional,Manjung,Perak,1951,,,100.73056,4.20222
 Simpang Lima,五条路,Kampung Baru Tradisional,Manjung,Perak,1951,,,100.75861,4.2475
 Sungai Batu,双溪峇都,Kampung Baru Tradisional,Manjung,Perak,1951,,,100.65583,4.43167
