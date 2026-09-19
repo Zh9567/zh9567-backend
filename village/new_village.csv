@@ -192,7 +192,7 @@ Pahi,柏希,Kampung Baru Tradisional,Kuala Krai,Kelantan,1951,Malay,N/A,102.2218
 Pemberian,本柏里安,Kampung Baru Tradisional,Kuala Krai,Kelantan,1950,Malay,N/A,102.24873,5.33531,
 Telekong,德勒贡,Kampung Baru Tradisional,Kuala Krai,Kelantan,1950,Malay,N/A,102.21233,5.65841,
 Batu Jong,峇都钟,Kampung Baru Rangkaian,Kuala Krai,Kelantan,,Chinese,Hokkien,102.18082,5.5889,
-Kampung Cina Chekok Tok Cuba,督祖巴,Kampung Baru Rangkaian,Machang,Kelantan,,Chinese,Hokkien,102.20117,5.86544,
+Kampung Cina Chekok Tok Cuba,督祖巴,Kampung Baru Rangkaian,Machang,Kelantan,,Chinese,Hokkien,102.1528,5.76485,
 Kampung Joh,甘榜佐（柔村）,Kampung Baru Rangkaian,Machang,Kelantan,,Chinese,Hokkien,102.1793,5.83888,
 Mata Air,马达亚逸,Kampung Baru Rangkaian,Machang,Kelantan,,Chinese,Hokkien,102.1854,5.87586,
 Temangan,东马岸,Kampung Baru Rangkaian,Machang,Kelantan,,Chinese,Hokkien,102.1508,5.70258,
@@ -616,17 +616,17 @@ Batu Lima,龙运五哩,Kampung Baru Tradisional,Dungun,Terengganu,1950,Chinese,,
 Air Jernih,亚依仁耐,Kampung Baru Tradisional,Kemaman,Terengganu,1954,Chinese,Hainanese,103.39552,4.4083,
 Pulai Baru,蒲莱,Kampung Baru Tradisional,Kuala Nerus,Terengganu,1953,Chinese,Hakka,103.0585,5.37369,
 Kuala Sedili,瓜拉素里里,Kampung Baru Rangkaian,Kota Tinggi,Johor,,Chinese,,104.12154,1.92721,degazetted 2022
-Batu 28 Lenga,岭嘉28哩,Kampung Baru Tradisional,Muar,Johor,,Malay,N/A,102.83381,2.25008,not gazetted by KPKT
-Simpang Empat,新邦安拔,Kampung Baru Tradisional,Baling,Kedah,,Siamese,N/A,100.93359,5.67581,not gazetted by KPKT
-Kenaboi,枧唐尾,Kampung Baru Tradisional,Jelebu,Negeri Sembilan,,Malay,N/A,102.07331,3.09058,not gazetted by KPKT
-Simpang Durian,新邦榴梿,Kampung Baru Tradisional,Jelebu,Negeri Sembilan,,Malay,N/A,102.22268,3.10159,not gazetted by KPKT
-Sungai Buloh,双溪毛糯,Kampung Baru Tradisional,Jelebu,Negeri Sembilan,,Malay,N/A,102.24271,3.10876,not gazetted by KPKT
-Gemeti,哥猛狄,Kampung Baru Tradisional,Bentong,Pahang,,Malay,N/A,101.90998,3.49976,not gazetted by KPKT
-Kampung Bikam,甘榜美金,Kampung Baru Tradisional,Batang Padang,Perak,,Malay,N/A,101.29299,4.04579,not gazetted by KPKT
-Ayer Hitam,阿依淡,Kampung Baru Tradisional,Hilir Perak,Perak,,Malay,N/A,101.20285,4.0205,not gazetted by KPKT
-"Batu 8, Changkat Jong",曾吉容八英里,Kampung Baru Tradisional,Hilir Perak,Perak,,Malay,N/A,101.12225,3.98244,not gazetted by KPKT
-Balik Bukit,巴力武吉,Kampung Baru Tradisional,Kerian,Perak,,Malay,N/A,100.67061,4.95647,not gazetted by KPKT
-Kampung Selamat,甘榜司南末,Kampung Baru Tradisional,Kerian,Perak,,Malay,N/A,100.68813,4.98596,not gazetted by KPKT
-Pasir Puteh Baru,新和园,Kampung Baru Tradisional,Kinta,Perak,,Chinese,,101.07967,4.56707,not gazetted by KPKT
-Bagan Baharu,峇眼峇汝,Kampung Baru Tradisional,Larut Matang,Perak,,Malay,N/A,100.75099,5.13541,not gazetted by KPKT
-Sungai Dendang,双溪任浪,Kampung Baru Tradisional,Larut Matang,Perak,,Malay,N/A,100.71121,5.16909,not gazetted by KPKT
+Batu 28 Lenga,岭嘉28哩,Kampung Baru Tradisional,Muar,Johor,1950,Malay,N/A,102.83381,2.25008,not gazetted by KPKT
+Simpang Empat,新邦安拔,Kampung Baru Tradisional,Baling,Kedah,1950,Siamese,N/A,100.93359,5.67581,not gazetted by KPKT
+Kenaboi,枧唐尾,Kampung Baru Tradisional,Jelebu,Negeri Sembilan,1958,Malay,N/A,102.07331,3.09058,not gazetted by KPKT
+Simpang Durian,新邦榴梿,Kampung Baru Tradisional,Jelebu,Negeri Sembilan,1950,Malay,N/A,102.22268,3.10159,not gazetted by KPKT
+Sungai Buloh,双溪毛糯,Kampung Baru Tradisional,Jelebu,Negeri Sembilan,1949,Malay,N/A,102.24271,3.10876,not gazetted by KPKT
+Gemeti,哥猛狄,Kampung Baru Tradisional,Bentong,Pahang,1950,Malay,N/A,101.90998,3.49976,not gazetted by KPKT
+Kampung Bikam,甘榜美金,Kampung Baru Tradisional,Batang Padang,Perak,1950,Malay,N/A,101.29299,4.04579,not gazetted by KPKT
+Ayer Hitam,阿依淡,Kampung Baru Tradisional,Hilir Perak,Perak,1950,Malay,N/A,101.20285,4.0205,not gazetted by KPKT
+"Batu 8, Changkat Jong",曾吉容八英里,Kampung Baru Tradisional,Hilir Perak,Perak,1951,Malay,N/A,101.12225,3.98244,not gazetted by KPKT
+Balik Bukit,巴力武吉,Kampung Baru Tradisional,Kerian,Perak,1950,Malay,N/A,100.67061,4.95647,not gazetted by KPKT
+Kampung Selamat,甘榜司南末,Kampung Baru Tradisional,Kerian,Perak,1950,Malay,N/A,100.68813,4.98596,not gazetted by KPKT
+Pasir Puteh Baru,新和园,Kampung Baru Tradisional,Kinta,Perak,1950,Chinese,,101.07967,4.56707,not gazetted by KPKT
+Bagan Baharu,峇眼峇汝,Kampung Baru Tradisional,Larut Matang,Perak,1953,Malay,N/A,100.75099,5.13541,not gazetted by KPKT
+Sungai Dendang,双溪任浪,Kampung Baru Tradisional,Larut Matang,Perak,1950,Malay,N/A,100.71121,5.16909,not gazetted by KPKT
